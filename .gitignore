@@ -1,0 +1,7 @@
+# JetBrains
+.idea
+
+# VS Code
+.vscode
+.envrc
+.DS_Store
